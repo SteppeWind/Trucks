@@ -1,0 +1,90 @@
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Antlr3.Runtime.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Autofac.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Autofac.Integration.Mvc.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Microsoft.Web.Mvc.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Newtonsoft.Json.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Extensions.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Primitives.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Helpers.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Optimization.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Razor.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\WebGrease.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\EntityFramework.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\AutoMapper.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Antlr3.Runtime.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Autofac.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Autofac.Integration.Mvc.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\Newtonsoft.Json.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Extensions.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Primitives.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Helpers.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Mvc.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Optimization.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Razor.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Razor.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\EntityFramework.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\bin\Debug\AutoMapper.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csproj.App.config
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csprojResolveAssemblyReference.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csproj.CoreCompileInputs.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.pdb
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.dll.config
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Web.Common.pdb
+E:\Trucks\Trucks.Web.Common\bin\Debug\Antlr3.Runtime.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Autofac.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Microsoft.Web.Mvc.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Extensions.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Primitives.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Helpers.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Optimization.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Razor.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\WebGrease.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\EntityFramework.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\AutoMapper.dll
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.pdb
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.Data.dll.config
+E:\Trucks\Trucks.Web.Common\bin\Debug\Trucks.Common.pdb
+E:\Trucks\Trucks.Web.Common\bin\Debug\Antlr3.Runtime.pdb
+E:\Trucks\Trucks.Web.Common\bin\Debug\Autofac.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\Autofac.Integration.Mvc.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\Newtonsoft.Json.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Extensions.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Net.Http.Primitives.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Helpers.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Mvc.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Optimization.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.Razor.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\EntityFramework.xml
+E:\Trucks\Trucks.Web.Common\bin\Debug\AutoMapper.xml
+E:\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csproj.App.config
+E:\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csprojResolveAssemblyReference.cache
+E:\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.csproj.CoreCompileInputs.cache
+E:\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.dll
+E:\Trucks\Trucks.Web.Common\obj\Debug\Trucks.Web.Common.pdb

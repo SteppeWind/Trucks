@@ -1,0 +1,60 @@
+﻿@using Trucks.Web.Common.App.Extensions
+@using Trucks.Web.Controllers
+@model Trucks.Web.Models.Points.CreateModel
+
+@Styles.Render("~/Content/steps.css")
+<div class="modal fade" id="createPointModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="stepwizard">
+                    <div class="stepwizard-row">
+                        <div class="stepwizard-step">
+                            <button name="@Html.NameFor(m => m.City)" type="button" class="btn btn-primary btn-circle">1</button>
+                            <p>City</p>
+                        </div>
+                        <div class="stepwizard-step">
+                            <button name="@Html.NameFor(m => m.Address)" type="button" class="btn btn-light btn-circle">2</button>
+                            <p>Address</p>
+                        </div>
+                    </div>
+                </div>
+                <section id="cities">
+                    <h4>Enter a name or select from existing cities.</h4>
+                    <div class="form-group">
+                        <input type="text" name="@Html.NameFor(m => m.City)" class="input-default" placeholder="City..."/>
+                    </div>
+                    <div>
+                        <select class="form-control selectpicker" data-show-subtext="true" data-live-search="true">
+                            <option value="-1">Select</option>
+                        </select>
+                    </div>
+                </section>                    
+                <section id="address" style="display: none">                  
+                    @Html.LabelFor(c => c.Address);
+                    <div>
+                        <input type="text" name="@Html.NameFor(m => m.Address)" class="input-default"/>
+                    </div>
+                </section>                     
+            </div>
+            <div class="modal-footer">
+                <section>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Cancel</button>
+                    <button id="save" type="button" class="btn btn-primary">Save</button>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function() {
+        new points.create.CreateView({
+            createPointUrl: "@(Html.BuildUrlFromExpression<PointsController>(p => p.Create(null)))",
+            detailsUrl: "@(Html.BuildUrlFromExpression<PointsController>(p => p.Details(0), true))"
+        }).render();
+    })
+</script>

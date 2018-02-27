@@ -1,0 +1,26 @@
+﻿@model Trucks.Web.Models.Customers.ListModel
+@using Trucks.Web.Common.App.Extensions
+@using Trucks.Web.Controllers
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Customers";
+}
+
+@{ Html.RenderAction<CustomersController>(c => c.Create());}
+<div id="customersList">    
+    <button id="create" class="btn btn-primary" data-toggle="modal" data-target="#createCustomerModal">Create customer</button>
+    <table id="customersTable"></table>
+</div>
+
+@Scripts.Render("~/Scripts/app/modules/customers/list/bundle")
+<script>
+    $(function () {
+        new customers.list.ListView(
+            {
+                customers: @Html.RawJson(Model.Customers),
+                selectCustomerUrl: "@(Html.BuildUrlFromExpression<CustomersController>(c => c.Details(0), true))",
+                deleteCustomerUrl: "@(Url.Action("Delete", "Customers"))"
+            }).render();
+    });
+</script>

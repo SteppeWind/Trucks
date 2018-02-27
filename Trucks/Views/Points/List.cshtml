@@ -1,0 +1,28 @@
+﻿@using Trucks.Web.Common.App.Extensions
+@using Trucks.Web.Controllers
+@model Trucks.Web.Models.Points.ListModel
+
+@{
+    ViewBag.Title = "Points";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="poitsList">
+    @{ Html.RenderAction<PointsController>(c => c.Create());}
+    <button id="create" class="btn btn-primary" data-toggle="modal" data-target="#createPointModal">Create point</button>
+    <table id="poitsTable"></table>
+</div>
+
+@Scripts.Render("~/Scripts/app/modules/points/create/bundle")
+@Scripts.Render("~/Scripts/app/modules/points/list/bundle")
+<script>
+    $(function () {
+        new points.list.ListView(
+            {
+                points: @Html.RawJson(Model.Points),
+                selectPointUrl: "@(Html.BuildUrlFromExpression<PointsController>(c => c.Details(0), true))",
+                deletePointUrl: "@Url.Action("Delete", "Points")",
+                createUrl: "@(Html.BuildUrlFromExpression<CustomersController>(c => c.Create(null)))"
+            }).render();
+    });
+</script>

@@ -1,0 +1,19 @@
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\Trucks.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\Trucks.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\AutoMapper.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\Newtonsoft.Json.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\AutoMapper.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Common\bin\Debug\Newtonsoft.Json.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Common\obj\Debug\Trucks.Common.csproj.CoreCompileInputs.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Common\obj\Debug\Trucks.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Common\obj\Debug\Trucks.Common.pdb
+E:\Trucks\Trucks.Common\bin\Debug\Trucks.Common.dll
+E:\Trucks\Trucks.Common\bin\Debug\Trucks.Common.pdb
+E:\Trucks\Trucks.Common\bin\Debug\AutoMapper.dll
+E:\Trucks\Trucks.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Trucks\Trucks.Common\bin\Debug\AutoMapper.xml
+E:\Trucks\Trucks.Common\bin\Debug\Newtonsoft.Json.xml
+E:\Trucks\Trucks.Common\obj\Debug\Trucks.Common.csprojResolveAssemblyReference.cache
+E:\Trucks\Trucks.Common\obj\Debug\Trucks.Common.csproj.CoreCompileInputs.cache
+E:\Trucks\Trucks.Common\obj\Debug\Trucks.Common.dll
+E:\Trucks\Trucks.Common\obj\Debug\Trucks.Common.pdb

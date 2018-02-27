@@ -1,0 +1,12 @@
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\bin\Debug\Trucks.Domain.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\bin\Debug\Trucks.Domain.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.csprojResolveAssemblyReference.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.csproj.CoreCompileInputs.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.pdb
+E:\Trucks\Trucks.Domain\bin\Debug\Trucks.Domain.dll
+E:\Trucks\Trucks.Domain\bin\Debug\Trucks.Domain.pdb
+E:\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.csprojResolveAssemblyReference.cache
+E:\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.csproj.CoreCompileInputs.cache
+E:\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.dll
+E:\Trucks\Trucks.Domain\obj\Debug\Trucks.Domain.pdb

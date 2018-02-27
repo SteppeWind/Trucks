@@ -1,0 +1,234 @@
+E:\учёба нах\Игорь\Trucks\Trucks\obj\Debug\Trucks.Web.csprojResolveAssemblyReference.cache
+E:\учёба нах\Игорь\Trucks\Trucks\obj\Debug\Trucks.Web.csproj.CoreCompileInputs.cache
+E:\учёба нах\Игорь\Trucks\Trucks\bin\ApplicationInsights.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csc.exe
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csc.exe.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csc.rsp
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csi.exe
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csi.exe.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\csi.rsp
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.AppContext.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Collections.Immutable.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Console.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Diagnostics.Process.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.IO.Compression.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.IO.Pipes.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Reflection.Metadata.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.AccessControl.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Claims.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Security.Principal.Windows.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Threading.Thread.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.ValueTuple.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Xml.XmlDocument.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Xml.XPath.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\vbc.exe
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\vbc.exe.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\vbc.rsp
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\VBCSCompiler.exe
+E:\учёба нах\Игорь\Trucks\Trucks\bin\roslyn\VBCSCompiler.exe.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Antlr3.Runtime.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Autofac.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Autofac.Integration.Mvc.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.Agent.Intercept.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.DependencyCollector.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.Web.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.WindowsServer.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.ApplicationInsights.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.Web.Infrastructure.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.Web.Mvc.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Newtonsoft.Json.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Diagnostics.DiagnosticSource.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Helpers.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Mvc.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Optimization.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Razor.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.Deployment.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.Razor.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Common.Data.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Data.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Domain.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Services.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\WebActivatorEx.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\WebGrease.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\EntityFramework.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\AutoMapper.dll
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Common.Data.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Common.Data.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Data.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Data.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Domain.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Services.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Trucks.Web.Common.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Antlr3.Runtime.pdb
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Autofac.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Autofac.Integration.Mvc.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.DependencyCollector.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.Web.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AI.WindowsServer.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\Newtonsoft.Json.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Diagnostics.DiagnosticSource.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Helpers.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Mvc.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Optimization.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.Razor.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.Deployment.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\System.Web.WebPages.Razor.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\EntityFramework.xml
+E:\учёба нах\Игорь\Trucks\Trucks\bin\AutoMapper.xml
+E:\учёба нах\Игорь\Trucks\Trucks\obj\Debug\Trucks.Web.dll
+E:\учёба нах\Игорь\Trucks\Trucks\obj\Debug\Trucks.Web.pdb
+E:\Trucks\Trucks\bin\ApplicationInsights.config
+E:\Trucks\Trucks\bin\Trucks.Web.dll.config
+E:\Trucks\Trucks\bin\Trucks.Web.dll
+E:\Trucks\Trucks\bin\Trucks.Web.pdb
+E:\Trucks\Trucks\bin\roslyn\csc.exe
+E:\Trucks\Trucks\bin\roslyn\csc.exe.config
+E:\Trucks\Trucks\bin\roslyn\csc.rsp
+E:\Trucks\Trucks\bin\roslyn\csi.exe
+E:\Trucks\Trucks\bin\roslyn\csi.exe.config
+E:\Trucks\Trucks\bin\roslyn\csi.rsp
+E:\Trucks\Trucks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Trucks\Trucks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Trucks\Trucks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Trucks\Trucks\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Trucks\Trucks\bin\roslyn\System.AppContext.dll
+E:\Trucks\Trucks\bin\roslyn\System.Collections.Immutable.dll
+E:\Trucks\Trucks\bin\roslyn\System.Console.dll
+E:\Trucks\Trucks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Trucks\Trucks\bin\roslyn\System.Diagnostics.Process.dll
+E:\Trucks\Trucks\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Trucks\Trucks\bin\roslyn\System.IO.Compression.dll
+E:\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.dll
+E:\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Trucks\Trucks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Trucks\Trucks\bin\roslyn\System.IO.Pipes.dll
+E:\Trucks\Trucks\bin\roslyn\System.Reflection.Metadata.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.AccessControl.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Claims.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Trucks\Trucks\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Trucks\Trucks\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Trucks\Trucks\bin\roslyn\System.Threading.Thread.dll
+E:\Trucks\Trucks\bin\roslyn\System.ValueTuple.dll
+E:\Trucks\Trucks\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Trucks\Trucks\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Trucks\Trucks\bin\roslyn\System.Xml.XPath.dll
+E:\Trucks\Trucks\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Trucks\Trucks\bin\roslyn\vbc.exe
+E:\Trucks\Trucks\bin\roslyn\vbc.exe.config
+E:\Trucks\Trucks\bin\roslyn\vbc.rsp
+E:\Trucks\Trucks\bin\roslyn\VBCSCompiler.exe
+E:\Trucks\Trucks\bin\roslyn\VBCSCompiler.exe.config
+E:\Trucks\Trucks\bin\Antlr3.Runtime.dll
+E:\Trucks\Trucks\bin\Autofac.dll
+E:\Trucks\Trucks\bin\Autofac.Integration.Mvc.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.DependencyCollector.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.Web.dll
+E:\Trucks\Trucks\bin\Microsoft.AI.WindowsServer.dll
+E:\Trucks\Trucks\bin\Microsoft.ApplicationInsights.dll
+E:\Trucks\Trucks\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Trucks\Trucks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Trucks\Trucks\bin\Microsoft.Web.Infrastructure.dll
+E:\Trucks\Trucks\bin\Microsoft.Web.Mvc.dll
+E:\Trucks\Trucks\bin\Newtonsoft.Json.dll
+E:\Trucks\Trucks\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Trucks\Trucks\bin\System.Web.Helpers.dll
+E:\Trucks\Trucks\bin\System.Web.Mvc.dll
+E:\Trucks\Trucks\bin\System.Web.Optimization.dll
+E:\Trucks\Trucks\bin\System.Web.Razor.dll
+E:\Trucks\Trucks\bin\System.Web.WebPages.Deployment.dll
+E:\Trucks\Trucks\bin\System.Web.WebPages.dll
+E:\Trucks\Trucks\bin\System.Web.WebPages.Razor.dll
+E:\Trucks\Trucks\bin\Trucks.Common.Data.dll
+E:\Trucks\Trucks\bin\Trucks.Common.dll
+E:\Trucks\Trucks\bin\Trucks.Data.dll
+E:\Trucks\Trucks\bin\Trucks.Domain.dll
+E:\Trucks\Trucks\bin\Trucks.Services.dll
+E:\Trucks\Trucks\bin\Trucks.Web.Common.dll
+E:\Trucks\Trucks\bin\WebActivatorEx.dll
+E:\Trucks\Trucks\bin\WebGrease.dll
+E:\Trucks\Trucks\bin\EntityFramework.dll
+E:\Trucks\Trucks\bin\AutoMapper.dll
+E:\Trucks\Trucks\bin\Trucks.Common.Data.pdb
+E:\Trucks\Trucks\bin\Trucks.Common.Data.dll.config
+E:\Trucks\Trucks\bin\Trucks.Common.pdb
+E:\Trucks\Trucks\bin\Trucks.Data.pdb
+E:\Trucks\Trucks\bin\Trucks.Data.dll.config
+E:\Trucks\Trucks\bin\Trucks.Domain.pdb
+E:\Trucks\Trucks\bin\Trucks.Services.pdb
+E:\Trucks\Trucks\bin\Trucks.Web.Common.pdb
+E:\Trucks\Trucks\bin\Trucks.Web.Common.dll.config
+E:\Trucks\Trucks\bin\Antlr3.Runtime.pdb
+E:\Trucks\Trucks\bin\Autofac.xml
+E:\Trucks\Trucks\bin\Autofac.Integration.Mvc.xml
+E:\Trucks\Trucks\bin\Microsoft.AI.DependencyCollector.xml
+E:\Trucks\Trucks\bin\Microsoft.AI.Web.xml
+E:\Trucks\Trucks\bin\Microsoft.AI.WindowsServer.xml
+E:\Trucks\Trucks\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Trucks\Trucks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Trucks\Trucks\bin\Newtonsoft.Json.xml
+E:\Trucks\Trucks\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Trucks\Trucks\bin\System.Web.Helpers.xml
+E:\Trucks\Trucks\bin\System.Web.Mvc.xml
+E:\Trucks\Trucks\bin\System.Web.Razor.xml
+E:\Trucks\Trucks\bin\System.Web.WebPages.xml
+E:\Trucks\Trucks\bin\System.Web.WebPages.Deployment.xml
+E:\Trucks\Trucks\bin\System.Web.WebPages.Razor.xml
+E:\Trucks\Trucks\bin\System.Web.Optimization.xml
+E:\Trucks\Trucks\bin\EntityFramework.xml
+E:\Trucks\Trucks\bin\AutoMapper.xml
+E:\Trucks\Trucks\obj\Debug\Trucks.Web.csprojResolveAssemblyReference.cache
+E:\Trucks\Trucks\obj\Debug\Trucks.Web.csproj.CoreCompileInputs.cache
+E:\Trucks\Trucks\obj\Debug\Trucks.Web.dll
+E:\Trucks\Trucks\obj\Debug\Trucks.Web.pdb

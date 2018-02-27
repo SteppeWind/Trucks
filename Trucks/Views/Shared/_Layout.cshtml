@@ -1,0 +1,172 @@
+﻿@using Microsoft.Web.Mvc
+@using Trucks.Web.Controllers
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>   
+    @Scripts.Render("~/Scripts/jquery/bundle")
+    @Scripts.Render("~/Scripts/underscore/bundle")
+    @Scripts.Render("~/Scripts/common/bundle")   
+    @Scripts.Render("~/Scripts/modernizr/bundle")    
+    @Scripts.Render("~/Scripts/jsRender/bundle")
+    @Scripts.Render("~/Scripts/datatable/bundle")
+    @Scripts.Render("~/Scripts/bootstrap/bundle")      
+    @Scripts.Render("~/Scripts/jqueryValidation/bundle")
+    @Scripts.Render("~/Scripts/backbone/bundle")          
+    
+    @Styles.Render("~/Content/site/bundle")
+    @Styles.Render("~/Content/fonts/bundle")
+    @Styles.Render("~/Content/bootstrap/bundle")       
+    @Styles.Render("~/Content/dataTables/css/bundle")
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-lg-3">
+                <div class="bootstrap-vertical-nav">
+                    <div id="sidebar">
+                        <ul class="nav flex-lg-column" id="exCollapsingNavbar3">
+                            <li class="nav-item">
+                                <a href="#Orders" class="list-group-item">
+                                    <img alt="" src="~/Content/Images/orders.png"/>
+                                    <span>Orders</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="@(Html.BuildUrlFromExpression<CustomersController>(c => c.List()))" class="list-group-item">
+                                    <img alt="" class="icon" src="~/Content/Images/customers.png"/>
+                                    <span>Customers</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Trucks" class="list-group-item">
+                                    <img alt="" class="icon" src="~/Content/Images/trucks.png"/>
+                                    <span>Trucks</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Drivers" class="list-group-item">
+                                    <img alt="" class="icon" src="~/Content/Images/drivers.png"/>
+                                    <span>Drivers</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="@(Html.BuildUrlFromExpression<PointsController>(c => c.List()))" class="list-group-item">
+                                    <img alt="" class="icon" src="~/Content/Images/points.png"/>
+                                    <span>Points</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Settings" class="list-group-item">
+                                    <img alt="" class="icon" src="~/Content/Images/settings.png"/>
+                                    <span>Settings</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-9">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+@RenderSection("scripts", required: false)
+</body>
+</html>
+
+<script>   
+    $("#sidebar a").mouseover(function () {
+        var img = $(this).find("img");
+        img.stop().animate({ "width": "55px", "height": "55px" }, 100);
+    });
+
+    $("#sidebar a").mouseout(function () {
+        $(this).find("img").stop().animate({ "width": "25px", "height": "25px" }, 100);
+    });
+</script>
+
+<style>
+/* closed state */
+#sidebar .list-group .list-group-item[aria-expanded="false"]::after {
+  content: " \f0d7";
+  font-family: FontAwesome;
+  display: inline;
+  text-align: right;
+  padding-left: 5px;
+}
+
+/* open state */
+#sidebar .list-group .list-group-item[aria-expanded="true"] {
+  background-color: #222;
+}
+
+#sidebar .list-group .list-group-item[aria-expanded="true"]::after {
+  content: " \f0da";
+  font-family: FontAwesome;
+  display: inline;
+  text-align: right;
+  padding-left: 5px;
+}
+
+/* level 1*/
+#sidebar .list-group .collapse .list-group-item  {
+  padding-left: 20px;
+}
+
+/* level 2*/
+#sidebar .list-group .collapse > .collapse .list-group-item {
+  padding-left: 30px;
+}
+
+/* level 3*/
+#sidebar .list-group .collapse > .collapse > .collapse .list-group-item {
+  padding-left: 40px;
+}
+/* change transition animation to width when entire sidebar is toggled */
+#sidebar.collapse {
+  -webkit-transition-timing-function: ease;
+       -o-transition-timing-function: ease;
+          transition-timing-function: ease;
+  -webkit-transition-duration: .2s;
+       -o-transition-duration: .2s;
+          transition-duration: .2s;
+}
+
+#sidebar.collapsing {
+  opacity: 0.8;
+  width: 0;
+  -webkit-transition-timing-function: ease-in;
+       -o-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+  -webkit-transition-property: width;
+       -o-transition-property: width;
+          transition-property: width;
+
+}
+    body{
+        overflow-y:hidden;
+    }
+
+    #sidebar {
+        position: fixed;
+    }
+
+    #sidebar span {
+        font-size: 15px;
+        font-family: Arial, Helvetica;
+    }
+
+    #sidebar img {       
+        width: 25px;
+        height: 25px;
+    }
+
+    #sidebar a {
+        margin-bottom: 15px;
+        border-radius: 15px;
+        width: 250px;
+    }
+</style>

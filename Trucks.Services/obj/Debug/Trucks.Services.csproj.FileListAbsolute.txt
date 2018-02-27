@@ -1,0 +1,48 @@
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Services.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Services.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Autofac.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Common.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Data.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Domain.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\EntityFramework.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\AutoMapper.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Newtonsoft.Json.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Common.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Data.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Data.dll.config
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Trucks.Domain.pdb
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Autofac.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\EntityFramework.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\AutoMapper.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Services\bin\Debug\Newtonsoft.Json.xml
+E:\учёба нах\Игорь\Trucks\Trucks.Services\obj\Debug\Trucks.Services.csprojResolveAssemblyReference.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Services\obj\Debug\Trucks.Services.csproj.CoreCompileInputs.cache
+E:\учёба нах\Игорь\Trucks\Trucks.Services\obj\Debug\Trucks.Services.dll
+E:\учёба нах\Игорь\Trucks\Trucks.Services\obj\Debug\Trucks.Services.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Services.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Services.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Autofac.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Common.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Data.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Domain.dll
+E:\Trucks\Trucks.Services\bin\Debug\EntityFramework.dll
+E:\Trucks\Trucks.Services\bin\Debug\AutoMapper.dll
+E:\Trucks\Trucks.Services\bin\Debug\Newtonsoft.Json.dll
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Common.Data.dll.config
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Common.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Data.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Data.dll.config
+E:\Trucks\Trucks.Services\bin\Debug\Trucks.Domain.pdb
+E:\Trucks\Trucks.Services\bin\Debug\Autofac.xml
+E:\Trucks\Trucks.Services\bin\Debug\EntityFramework.xml
+E:\Trucks\Trucks.Services\bin\Debug\AutoMapper.xml
+E:\Trucks\Trucks.Services\bin\Debug\Newtonsoft.Json.xml
+E:\Trucks\Trucks.Services\obj\Debug\Trucks.Services.csprojResolveAssemblyReference.cache
+E:\Trucks\Trucks.Services\obj\Debug\Trucks.Services.csproj.CoreCompileInputs.cache
+E:\Trucks\Trucks.Services\obj\Debug\Trucks.Services.dll
+E:\Trucks\Trucks.Services\obj\Debug\Trucks.Services.pdb
